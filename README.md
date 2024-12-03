@@ -1,16 +1,31 @@
-# team_member_profile_ui
 
-A new Flutter project.
+# Flutter Profile UI Project 🚀
 
-## Getting Started
+This project is a *Flutter-based Profile UI* that demonstrates a clean and user-friendly design showcasing user profile details, work activity, and a responsive tabbed interface.
 
-This project is a starting point for a Flutter application.
+---
 
-A few resources to get you started if this is your first Flutter project:
+## ✨ Features
+- *Modern and Clean UI* 🎨
+- Fully *Responsive Design* 📱
+- Modular and Reusable Widgets 🛠
+- Demonstrates **Profile Details**, **Tabs**, and **User Metrics**
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 📸 Screenshots
+<p align="center">
+  <img src="screenshots\screenshot_1.jpg" width="45%" />
+  <img src="screenshots\screenshot_2.jpg" width="45%" />
+</p>
+
+---
+
+## 🚀 Getting Started
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/azimramadan/team_member_profile_ui.git
+
+---
+
+Feel free to explore, contribute, and use this project to enhance your Flutter skills! 😊
